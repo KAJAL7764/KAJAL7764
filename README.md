@@ -1,5 +1,5 @@
 
-- 🥱 i'm begginer.
+- i'm begginer.
 
 <!---
 KAJAL7764/KAJAL7764 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
