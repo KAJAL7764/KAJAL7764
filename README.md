@@ -1,5 +1,12 @@
+
+![image](https://github.com/user-attachments/assets/369d5184-4803-4bf3-8c1c-f73c4fe3684b)
+
 <h1 align="center">Hi 👋, I'm KAJAL KUMARI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India </h3>
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajal7764&label=Profile%20views&color=0e75b6&style=flat" alt="kajal7764" /> </p>
 
